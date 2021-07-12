@@ -1,3 +1,0 @@
-# TallerMecanico
-Repositorio
-taller mecanico 
